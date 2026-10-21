@@ -1,0 +1,4 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-2001,2026-11-05,S004,Tindahan ni Mila,Brgy. San Isidro,Makati,P001,Instant pancit canton,Noodles,2,16.00
+ORD-2002,2026-11-05,S004,Tindahan ni Mila,Brgy. San Isidro,Makati,P002,3-in-1 coffee sachet,Beverages,,9.00
+ORD-2003,2026-11-05,S004,Tindahan ni Mila,Brgy. San Isidro,Makati,P006,Bath soap bar,Personal care,-2,30.00
